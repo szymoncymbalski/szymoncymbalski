@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @szymoncymbalski
+- 👀 I’m interested in Infrastructure as Code, AWS, Azure, Powershell, .NET Core, Blazor
+- 🌱 I’m currently learning Blazor, Terraform 
+- 💞️ I’m looking to collaborate on self-help and community betterment apps. Targets like addiction recovery, mental illness communication, education and guidance for self-help
+- 📫 How to reach me - szymon.cymbalski@gmail.com
