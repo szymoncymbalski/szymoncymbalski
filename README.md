@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @szymoncymbalski
-- 👀 I’m interested in Infrastructure as Code, AWS, Azure, Powershell, .NET Core, Blazor
-- 🌱 I’m currently learning Python, Ansible, and Ethical Hacking 
-- 💞️ I’m looking to collaborate on self-help and community betterment apps. Targets like addiction recovery, mental illness communication, education and guidance for self-help
+- 👋 Hi, I’m @szymoncymbalski, professional cloud/systems engineer, passionate tech enthusiast  
+- :toolbox: Daily driver of Terraform, AWS, Windows/Powershell Linux/Bash,Python, Ansible
+- :owl: I previously worked for 5 years on Azure building and managing EDiscovery Platforms and Infrastructure services for enterprise. 
+- 🌱 I’m currently learning AWS Amazon Bedrock Managed AI Service primarily focused on Virtual Assistants 
+- :houses: I’m looking to collaborate on self-help and community betterment apps. Targets like addiction recovery, neighborhood crime watch, mental health assistance, education and guidance for self-help
 - 📫 How to reach me - szymon.cymbalski@gmail.com
