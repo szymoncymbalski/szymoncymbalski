@@ -1,0 +1,10 @@
+<form id="patchInstanceForm">
+  <label for="instanceId">Enter Instance ID:</label>
+  <input type="text" id="instanceId" name="instanceId" required>
+  <br>
+  <button type="submit">Run Patch Baseline</button>
+</form>
+
+<cwdb-action action="call" endpoint="LAMBDA_ARN" method="POST">
+  <cwdb-param name="InstanceId" path="$.widgetContext.forms.all.instanceId" />
+</cwdb-action>
